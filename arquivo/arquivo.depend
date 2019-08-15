@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463874310 source:d:\documentos\caique\code blocks\c++\arquivo\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+
